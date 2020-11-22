@@ -45,7 +45,7 @@
       "organization": "Some Event Organizer",
       "format": "Online",
       "location": "",
-      "ce": "",
+      "ce": [],
       "cost": "Free"
     }
   ]
